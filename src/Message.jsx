@@ -1,4 +1,3 @@
-import { preprocessCSS } from "vite";
 
 function Message(props) {
   return (
